@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T03:08:38.232Z'
-dateModified: '2016-04-17T03:08:29.506Z'
+datePublished: '2016-04-17T03:37:26.224Z'
+dateModified: '2016-04-17T03:37:02.178Z'
 title: >-
   Além ampliar o números de
 
@@ -21,14 +21,14 @@ title: >-
 
   historiadores, críticos e colecionadores de arte.
 author: []
+sourcePath: _posts/2016-04-17-alem-ampliar-o-numeros-de-espacos-expositivos-para-acolher-a.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-alem-ampliar-o-numeros-de-espacos-expositivos-para-acolher-a.md
-published: true
 url: alem-ampliar-o-numeros-de-espacos-expositivos-para-acolher-a/index.html
 _type: Article
 

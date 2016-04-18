@@ -4,8 +4,15 @@
         <description><![CDATA[teste Projeto Ativa]]></description>
         <link>https://thegrid.ai/teste-projeto-ativa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 17:56:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 17:58:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teste-projeto-ativa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>ocupação coaty !</p>]]></description>
+            <link>https://thegrid.ai/teste-projeto-ativa/ocupacao-coaty/index.html</link>
+            <guid isPermaLink="false">07e5ae2f-3a81-4c08-8bff-b7590dee3653</guid>
+            <pubDate>Mon, 18 Apr 2016 17:58:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1901b0f8-198e-4718-8ef2-13719ecf31af.jpg">]]></description>
@@ -80,13 +87,6 @@ historiadores, críticos e colecionadores de arte.</h1><img src="https://the-gri
             <link>https://thegrid.ai/teste-projeto-ativa/923dfee6-9b3a-4d14-a794-1fb7b4fa98f0/index.html</link>
             <guid isPermaLink="false">923dfee6-9b3a-4d14-a794-1fb7b4fa98f0</guid>
             <pubDate>Sun, 17 Apr 2016 03:37:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3f684e6-10b6-4c60-bc79-29a6ef2c58f5.jpg">]]></description>
-            <link>https://thegrid.ai/teste-projeto-ativa/objetivo/index.html</link>
-            <guid isPermaLink="false">f25623ad-5e90-43e3-adb1-a7dcfbb53cc4</guid>
-            <pubDate>Sun, 17 Apr 2016 01:30:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <description><![CDATA[teste Projeto Ativa]]></description>
         <link>https://thegrid.ai/teste-projeto-ativa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 00:44:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teste-projeto-ativa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/teste-projeto-ativa/ocupacao-coaty/index.html</link>
             <guid isPermaLink="false">07e5ae2f-3a81-4c08-8bff-b7590dee3653</guid>
             <pubDate>Thu, 21 Apr 2016 22:45:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4b7cc56-9721-447a-a8b0-6d3b9aca806f.png">]]></description>
+            <link>https://thegrid.ai/teste-projeto-ativa/babac6b2-543a-49ea-96b6-bd94938585c6/index.html</link>
+            <guid isPermaLink="false">babac6b2-543a-49ea-96b6-bd94938585c6</guid>
+            <pubDate>Fri, 22 Apr 2016 00:44:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -70,23 +77,6 @@ contemporânea.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a
             <link>https://thegrid.ai/teste-projeto-ativa/46c42296-4ffb-4f8c-a5ca-5dfcd82e7f93/index.html</link>
             <guid isPermaLink="false">46c42296-4ffb-4f8c-a5ca-5dfcd82e7f93</guid>
             <pubDate>Sun, 17 Apr 2016 03:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Além ampliar o números de
-espaços expositivos para acolher as demandas existentes, pretende trabalhar no
-fortalecimento do sistema das artes como um todo. Estimular o exercício
-crítico, criar mecanismos de visibilidade a produção local, proporcionar o
-intercâmbio entre artistas nacionais e internacionais, pensadores,
-historiadores, críticos e colecionadores de arte.]]></title>
-            <description><![CDATA[<article><h1>Além ampliar o números de
-espaços expositivos para acolher as demandas existentes, pretende trabalhar no
-fortalecimento do sistema das artes como um todo. Estimular o exercício
-crítico, criar mecanismos de visibilidade a produção local, proporcionar o
-intercâmbio entre artistas nacionais e internacionais, pensadores,
-historiadores, críticos e colecionadores de arte.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ced5685d-11bb-4a79-8808-4c01354e8de1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/teste-projeto-ativa/alem-ampliar-o-numeros-de-espacos-expositivos-para-acolher-a/index.html</link>
-            <guid isPermaLink="false">b9faf903-1bd5-4415-9a28-6678b668c89c</guid>
-            <pubDate>Sun, 17 Apr 2016 03:37:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

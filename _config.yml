@@ -1,6 +1,6 @@
 name: teste Projeto Ativa
 favicon: null
-layout_spectrum: 0.76491
+layout_spectrum: 0.80525
 typography_spectrum: 0.30283
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#000000'
     - '#fbfbfb'
     - '#767676'
-  brandStrength: 0.3125
+  brandStrength: 0.625
   lightness: 0.75
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
